@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieTop</string>
+    <string name="poster_film">постер к фильму</string>
+    <string name="top_popular">Самые популярные</string>
+    <string name="top_raited">Наиболее рейтинговые</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Удалено из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favourite">Избранное</string>
+</resources>
